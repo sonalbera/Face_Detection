@@ -1,6 +1,6 @@
 # Face_Detection
 
-A python based algorithm, performing face detection on live video by making use of openCV.
+A simple python based algorithm, performing face detection on live video by making use of openCV.
 
 To run the algorithm, it's essential to open the file as well as the .xml extensions in a python environment which has openCV library (mainly cv2) pre-installed.
 
