@@ -10,4 +10,4 @@ It is also advised to run the program in Spyder IDE.
 To quit the live video based detection page, press the ' q ' key on keyboard to quit the progran.
 
 
-****Please note that the video screen can only be closed with ' q' key and not by the 'X' sign on window ****
+****Video screen can be closed with ' q' key and not by the 'X' sign on window ****
