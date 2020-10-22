@@ -1,4 +1,3 @@
-
 #A simple face detection algorithm in python using openCV
 
 import cv2
