@@ -1,7 +1,5 @@
 <?xml version="1.0"?>
 
-
-
 <opencv_storage>
 <cascade type_id="opencv-cascade-classifier"><stageType>BOOST</stageType>
   <featureType>HAAR</featureType>
